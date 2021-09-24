@@ -2,4 +2,4 @@
 WIP :rage4:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cawolfkreo&show_icons=true&custom_title=My+Github+Stats!)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cawolfkreo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
